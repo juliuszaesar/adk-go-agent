@@ -158,10 +158,6 @@ The wrapper converts between Google ADK's format and OpenAI-compatible format:
 3. **Response Conversion**: Converts OpenAI responses back to `genai.Content`
 4. **Streaming**: Handles Server-Sent Events (SSE) for streaming responses
 
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
 ## Acknowledgments
 
 - Built on [Google ADK-Go](https://github.com/google/adk-go)
